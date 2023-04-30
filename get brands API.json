@@ -1,0 +1,57 @@
+{
+	"id": "3a22bb53-f079-4aa1-8117-99a3e4c3da06",
+	"name": "Interview",
+	"timestamp": "2022-07-17T11:55:58.768Z",
+	"collection_id": "21097059-dcb69aab-5bc4-477d-b855-640cae20a9b1",
+	"folder_id": "21097059-2c4cf43f-5cfd-4373-a51d-e8bfa1765989",
+	"environment_id": "0",
+	"totalPass": 0,
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "10ee3687-e4f0-4b95-8f02-c436975b2c10",
+			"name": "get brands API",
+			"time": 556,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				2091,
+				247,
+				542,
+				246,
+				535,
+				541,
+				551,
+				540,
+				544,
+				556
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{}
+			]
+		}
+	],
+	"count": 10,
+	"totalTime": 6393,
+	"collection": {
+		"requests": [
+			{
+				"id": "10ee3687-e4f0-4b95-8f02-c436975b2c10",
+				"method": "GET"
+			}
+		]
+	}
+}
